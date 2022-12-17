@@ -7,8 +7,6 @@ import Form from './components/Form';
     <div className="App">
             <h1>Form Validation </h1>
       <Form />
-  
-      
     </div>
   );
 }
